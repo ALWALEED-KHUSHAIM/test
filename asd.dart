@@ -1,3 +1,3 @@
 void main (){
-    print ("alsalam alikom");
+    print ("alslam alikom");
 }
